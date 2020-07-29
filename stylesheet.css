@@ -45,7 +45,7 @@ li {
 }
 
 .thumbnail {
-  width: 15rem;
+  width: 17rem;
   margin-top: 1rem;
   border-radius: 3rem;
 }
@@ -56,12 +56,12 @@ li {
 }
 
 .h3welcome {
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #5A5A5A;
 }
 
 .pwelcome {
-  font-size: 1rem;
+  font-size: 1.7rem;
   color: #5A5A5A;
 }
 
@@ -126,7 +126,9 @@ ion-icon:hover {
   cursor: pointer;
 }
 
-@media only screen and (min-width: 600px) {#container {
+
+@media (min-width: 600px) {
+  #container {
   display: flex;
   flex-direction: column;
   justify-content: center;
