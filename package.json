@@ -1,0 +1,14 @@
+{
+  "name": "kudat3rbang-portfolio",
+  "version": "1.0.0",
+  "description": "KudaT3rbang Portfolio remake 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathanael Gilberth Tjandra",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
+  }
+}
